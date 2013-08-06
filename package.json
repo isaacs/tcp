@@ -1,0 +1,9 @@
+{
+  "name": "tcp",
+  "version": "0.0.0",
+  "description": "The correct name for Node.js's `net` module.",
+  "main": "tcp.js",
+  "repository": "git://github.com/isaacs/tcp",
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "BSD-2-Clause"
+}
