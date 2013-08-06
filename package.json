@@ -1,6 +1,6 @@
 {
   "name": "tcp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The correct name for Node.js's `net` module.",
   "main": "tcp.js",
   "repository": "git://github.com/isaacs/tcp",
